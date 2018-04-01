@@ -1,0 +1,1 @@
+angular-inactivity-directive
